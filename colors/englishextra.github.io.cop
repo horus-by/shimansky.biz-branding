@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorBugPalettes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ColorPalette Title="englishextra.github.io">
+    <Colors>
+      <Color HexColor="#000000" Title="body text" />
+      <Color HexColor="#333333" Title="heading 1" />
+      <Color HexColor="#666666" Title="lighter text" />
+      <Color HexColor="#999999" Title="gray text" />
+      <Color HexColor="#f1f1f1" Title="interface bg" />
+      <Color HexColor="#094ab2" Title="link" />
+      <Color HexColor="#da4040" Title="acrive link" />
+      <Color HexColor="#563f7f" Title="highlighted bg" />
+      <Color HexColor="#910091" Title="highlighted text" />
+      <Color HexColor="#5133ab" Title="notice msg" />
+      <Color HexColor="#217346" Title="success msg" />
+      <Color HexColor="#eb3c00" Title="error msg" />
+    </Colors>
+  </ColorPalette>
+</ColorBugPalettes>
