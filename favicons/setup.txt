@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="HandheldFriendly" content="True" />
+		<meta name="MobileOptimized" content="320" />
+		<meta name="msapplication-TileColor" content="#DB4040" />
+		<meta name="msapplication-TileImage" content="/mstile-144x144.png" />
+		<meta name="theme-color" content="#FFFFFF" />
+		<meta property="og:image" content="http://englishextra.github.io/iTunesArtwork.jpg" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="robots" content="index,follow" />
+		<meta name="author" content="Serguei Shimansky englishextra@yandex.ru" />
+		<meta name="keywords" content="репетитор,тушино,егэ,гиа,английский,английского,английскому,глаголы,диалоги,идиомы,ключи,неправильные,онлайн,ответы,подкасты,репетиторы,рефераты,решебник,скачать,тесты,топики,уроки,mp3,mp4" />
+		<meta name="description" content="&#171;Великое искусство научиться многому&#160;&#8212; это браться сразу за&#160;немногое&#187; (Джон Локк)" />
+		<title>Английский без&#160;регистрации</title>
+		<link rel="P3Pv1" href="/w3c/p3p.xml" />
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png" />
+		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192" />
+		<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+		<link rel="manifest" href="/manifest.json" />
+		<link rel="yandex-tableau-widget" href="/yandex-tableau.json" />
+		<link rel="image_src" href="http://englishextra.github.io/iTunesArtwork.jpg" type="image/png" title="Английский без&#160;регистрации" />
+		<link rel="me" type="text/html" href="https://www.youtube.com/user/shimanskybiz" />
+		<link rel="me" type="text/html" href="https://github.com/englishextra" />
+		<link rel="me" type="text/html" href="https://vimeo.com/user20994901" />
+		<link rel="alternate" href="https://feeds.feedburner.com/Shimanskybiz?format=xml" type="application/rss+xml" title="Английский без&#160;регистрации - Статьи" />
+		<link rel="search" href="/searchplugins/mycroft/sitesearch.xml" type="application/opensearchdescription+xml" title="Shimansky.biz (Английский без&#160;регистрации) - Поиск" />
+		<script>(function(a,b,c){a.location.protocol&&"https:"!==a.location.protocol&&(b.location.href="https:"+a.location.href.substring(a.location.protocol.length))})(window,document);</script>
+		<link rel="stylesheet" href="./libs/shimansky.biz-homepage2/css/bundle.min.css" />
+	</head>
+	<body>
