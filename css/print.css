@@ -1,0 +1,160 @@
+/**
+ * gist.github.com/englishextra/cdd503793392281a8a0c
+ */
+@media print {
+	html {
+		font-size: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	body {
+		font-family: "Segoe Pro Semilight","Segoe UI Semilight","Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-weight: 300;
+		font-size: 11.0pt;
+		line-height: 1.500;
+		color: #000000;
+		overflow-x: visible;
+		margin: 0;
+		padding: 0;
+	}
+	a,.col a {
+		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-weight: 700;
+		color: inherit;
+		text-decoration: none;
+	}
+	h1,.col h1 {
+		font-family: "Cambria","PT Serif",serif;
+		font-weight: 400;
+		font-size: 42.0pt;
+		line-height: 1.200;
+		margin-top: 0 !important;
+	}
+	h2,.col h2 {
+		font-family: "Segoe Pro Semilight","Segoe UI Semilight","Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-weight: 300;
+		font-size: 20.0pt;
+		line-height: 1.200;
+	}
+	h3,.col h3 {
+		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-weight: 700;
+		font-size: 13.0pt;
+		line-height: 1.200;
+	}
+	h4,.col h4 {
+		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-weight: 400;
+		font-size: 12.0pt;
+		line-height: 1.200;
+		text-transform: uppercase;
+		letter-spacing: 0.500pt;
+	}
+	p,.col p {
+		font-family: "Segoe Pro Semilight","Segoe UI Semilight","Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-weight: 300;
+		font-size: 11.0pt;
+	}
+	b,strong,.bolder,.col b,.col strong,.col .bolder {
+		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-weight: 700;
+	}
+	i,em,blockquote,.italic,.col i,.col em,.col blockquote,.col .italic {
+		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-weight: 400;
+		font-style: italic;
+	}
+	table,.col table {
+		border-collapse: collapse;
+	}
+	table caption,.col table caption {
+		font-size: 10.0pt;
+	}
+	table tr,.col table tr {
+		background-color: transparent;
+	}
+	table tr:nth-of-type(odd),.col table tr:nth-of-type(odd) {
+		background-color: transparent;
+	}
+	table td,table th,.col table td,.col table th {
+		font-size: 10.0pt;
+		padding: 5.0pt;
+		vertical-align: top;
+		border-collapse: collapse;
+	}
+	table th,.col table th {
+		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-weight: 700;
+		text-align: left;
+		border: none;
+		border-bottom-width: 0.75pt;
+		border-bottom-style: solid;
+		border-bottom-color: inherit;
+		background-color: transparent;
+	}
+	table td,.col table td {
+		font-family: "Segoe Pro Semilight","Segoe UI Semilight","Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-weight: 300;
+		border: none;
+		border-bottom-width: 0.75pt;
+		border-bottom-style: solid;
+		border-bottom-color: inherit;
+	}
+	table td ol,table td ul,.col table td ol,.col table td ul {
+		margin: 0;
+	}
+	[id^="video"],
+	[id*=" video"],
+	[id^="audio"],
+	[id*=" audio"],
+	h2[id^="a0"],
+	form,.col form,
+	select,.col select,
+	textarea,.col textarea,
+	input,.col input,
+	button,.col button,
+	.menu-more-holder,
+	.menu-more,
+	.btn-nav-holder,
+	.stripe-top,
+	.header,
+	.footer,
+	.pswp,
+	.pluso-engine,
+	.btn-cc-by-nd-88x31,
+	.article-gallery,
+	.ui-pnotify,
+	#circular-g,
+	#nav-left-holder,
+	#menu-more-holder,
+	#menu-more,
+	#btn-nav-more,
+	#gallery,
+	#qr-code,
+	#article-gallery,
+	#disqus_thread,
+	#vk-like {
+		display: none;
+	}
+	blockquote,
+	.blockquote,
+	.col .blockquote {
+		margin-left: 16.0pt;
+	}
+	address,
+	.address,
+	.col .address {
+		font-size: 10.0pt;
+		text-align: right;
+	}	
+	.highlight,
+	.col .highlight,
+	.main .col .highlight {
+		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-weight: 700;
+		color: inherit;
+	}
+	.phonetic,.col .phonetic {
+		font-family: "Calibri","Voces","Judson","ConstructiumRegular",sans-serif;
+	}
+}
