@@ -8,42 +8,42 @@
 		padding: 0;
 	}
 	body {
-		font-family: "Segoe Pro Semilight","Segoe UI Semilight","Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
-		font-weight: 300;
+		font-family: "Segoe Pro SemiLight","Segoe UI SemiLight",sans-serif;
+		font-weight: normal;
 		font-size: 11.0pt;
 		line-height: 1.500;
-		color: #000000;
+		color: #363636;
 		overflow-x: visible;
 		margin: 0;
 		padding: 0;
 	}
 	a,.col a {
-		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
-		font-weight: 700;
-		color: inherit;
-		text-decoration: none;
+		font-family: "Segoe Pro","Segoe UI",sans-serif;
+		font-weight: 400;
+		color: #363636;
+		text-decoration: underline;
 	}
 	h1,.col h1 {
-		font-family: "Cambria","PT Serif",serif;
+		font-family: "PT Serif","Cambria",serif;
 		font-weight: 400;
 		font-size: 42.0pt;
 		line-height: 1.200;
 		margin-top: 0 !important;
 	}
 	h2,.col h2 {
-		font-family: "Segoe Pro Semilight","Segoe UI Semilight","Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
-		font-weight: 300;
+		font-family: "Segoe Pro SemiLight","Segoe UI SemiLight",sans-serif;
+		font-weight: normal;
 		font-size: 20.0pt;
 		line-height: 1.200;
 	}
 	h3,.col h3 {
-		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
-		font-weight: 700;
+		font-family: "Segoe Pro SemiBold","Segoe UI SemiBold",sans-serif;
+		font-weight: normal;
 		font-size: 13.0pt;
 		line-height: 1.200;
 	}
 	h4,.col h4 {
-		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-family: "Segoe Pro","Segoe UI",sans-serif;
 		font-weight: 400;
 		font-size: 12.0pt;
 		line-height: 1.200;
@@ -51,16 +51,16 @@
 		letter-spacing: 0.500pt;
 	}
 	p,.col p {
-		font-family: "Segoe Pro Semilight","Segoe UI Semilight","Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
-		font-weight: 300;
+		font-family: "Segoe Pro SemiLight","Segoe UI SemiLight",sans-serif;
+		font-weight: normal;
 		font-size: 11.0pt;
 	}
 	b,strong,.bolder,.col b,.col strong,.col .bolder {
-		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
-		font-weight: 700;
+		font-family: "Segoe Pro SemiBold","Segoe UI SemiBold",sans-serif;
+		font-weight: normal;
 	}
 	i,em,blockquote,.italic,.col i,.col em,.col blockquote,.col .italic {
-		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
+		font-family: "Segoe Pro","Segoe UI",sans-serif;
 		font-weight: 400;
 		font-style: italic;
 	}
@@ -83,8 +83,8 @@
 		border-collapse: collapse;
 	}
 	table th,.col table th {
-		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
-		font-weight: 700;
+		font-family: "Segoe Pro SemiBold","Segoe UI SemiBold",sans-serif;
+		font-weight: normal;
 		text-align: left;
 		border: none;
 		border-bottom-width: 0.75pt;
@@ -93,8 +93,8 @@
 		background-color: transparent;
 	}
 	table td,.col table td {
-		font-family: "Segoe Pro Semilight","Segoe UI Semilight","Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
-		font-weight: 300;
+		font-family: "Segoe Pro SemiLight","Segoe UI SemiLight",sans-serif;
+		font-weight: normal;
 		border: none;
 		border-bottom-width: 0.75pt;
 		border-bottom-style: solid;
@@ -150,11 +150,11 @@
 	.highlight,
 	.col .highlight,
 	.main .col .highlight {
-		font-family: "Segoe Pro","Segoe UI","Source Sans Pro","PT Sans",sans-serif;
-		font-weight: 700;
+		font-family: "Segoe Pro SemiBold","Segoe UI SemiBold",sans-serif;
+		font-weight: normal;
 		color: inherit;
 	}
 	.phonetic,.col .phonetic {
-		font-family: "Calibri","Voces","Judson","ConstructiumRegular",sans-serif;
+		font-family: "Segoe UI","Calibri","Voces","Judson","ConstructiumRegular",sans-serif;
 	}
 }

@@ -56,6 +56,10 @@ em,
 .italic {
 	font-style: italic;
 }
+u,
+.underline {
+	text-decoration: underline;
+}
 *,*:after,
 *::before {
 	-webkit-box-sizing: border-box;
@@ -306,16 +310,31 @@ pre.prettyprint {
 .cf {
 	*zoom: 1;
 }
+/**
+ * block-social-buttons
+ */
+.block-social-buttons {
+	width: 100%;
+	text-align: center !important;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+/**
+ * pluso
+ */
+.pluso-sharer {
+	margin-top: 24px !important;
+}
 /*!
  * vk-like
  */
-.vk-like-holder {
+.vk-like {
 	width: 100%;
 	text-align: center;
 	margin: 24px auto 18px auto;
 }
 .col ul + .vk-like-holder,
-.col p + .vk-like-holder {
+.col p + .vk-like {
 	margin-top: 0;
 }
 /*!
@@ -1559,9 +1578,6 @@ Samsung Galaxy S3 Mini*/
 		margin: 66px auto;
 	}
 }
-
-
-
 /* ========================
 //#google-prettify-monokai-theme
 //#Version: 0.2
@@ -1667,8 +1683,3 @@ ol.linenums li {
 	line-height: 1.5 !important;
 	padding-left: .8em !important;
 }
-
-
-
-
-
