@@ -12,22 +12,23 @@
 		font-weight: normal;
 		font-size: 11.0pt;
 		line-height: 1.500;
-		color: #363636;
+		color: Black;
 		overflow-x: visible;
 		margin: 0;
 		padding: 0;
 	}
 	a,.col a {
 		font-family: "Segoe Pro","Segoe UI",sans-serif;
-		font-weight: 400;
-		color: #363636;
+		font-weight: normal;
+		color: inherit;
 		text-decoration: underline;
 	}
 	h1,.col h1 {
-		font-family: "PT Serif","Cambria",serif;
-		font-weight: 400;
+		font-family: "Cambria",serif;
+		font-weight: normal;
 		font-size: 42.0pt;
 		line-height: 1.200;
+		color: inherit;
 		margin-top: 0 !important;
 	}
 	h2,.col h2 {
@@ -44,7 +45,7 @@
 	}
 	h4,.col h4 {
 		font-family: "Segoe Pro","Segoe UI",sans-serif;
-		font-weight: 400;
+		font-weight: normal;
 		font-size: 12.0pt;
 		line-height: 1.200;
 		text-transform: uppercase;
@@ -61,11 +62,21 @@
 	}
 	i,em,blockquote,.italic,.col i,.col em,.col blockquote,.col .italic {
 		font-family: "Segoe Pro","Segoe UI",sans-serif;
-		font-weight: 400;
+		font-weight: normal;
 		font-style: italic;
 	}
 	table,.col table {
 		border-collapse: collapse;
+		border: none;
+		border-top-width: 0.750pt;
+		border-top-style: solid;
+		border-top-color: inherit;
+		border-right-width: 0.750pt;
+		border-right-style: solid;
+		border-right-color: inherit;
+		border-left-width: 0.750pt;
+		border-left-style: solid;
+		border-left-color: inherit;
 	}
 	table caption,.col table caption {
 		font-size: 10.0pt;
@@ -113,9 +124,9 @@
 	textarea,.col textarea,
 	input,.col input,
 	button,.col button,
-	.menu-more-holder,
-	.menu-more,
-	.btn-nav-holder,
+	.holder-menu-more,
+	.panel-menu-more,
+	.holder-btn-nav-menu,
 	.stripe-top,
 	.header,
 	.footer,
@@ -154,7 +165,10 @@
 		font-weight: normal;
 		color: inherit;
 	}
+	a.reflink {
+		color: DimGray;
+	}
 	.phonetic,.col .phonetic {
-		font-family: "Segoe UI","Calibri","Voces","Judson","ConstructiumRegular",sans-serif;
+		font-family: "Segoe Pro","Segoe UI",sans-serif;
 	}
 }
