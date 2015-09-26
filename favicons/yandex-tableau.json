@@ -3,7 +3,7 @@
 	"api_version": 1,
 	"layout": {
 		"logo": "http://englishextra.github.io/yandex-tableau-50x50.png",
-		"color": "#DB4040",
+		"color": "#D55148",
 		"show_title": false
 	}
 }
