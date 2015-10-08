@@ -2111,6 +2111,18 @@ window.Modernizr&&Modernizr.touch&&yepnope.injectJs("../../cdn/hammer.js/1.0.6/j
  *
  *
  */
+function loadCss() {
+	var a = document.createElement("link");
+	a.href = "../libs/contents2/css/bundle.min.css";
+	a.rel = "stylesheet";
+	a.type = "text/css";
+	a.media = "screen";
+	document.getElementsByTagName("head")[0].appendChild(a)
+}
+var load_css = !0;
+setInterval(function () {
+	load_css && (load_css = !1, "function" === typeof requestAnimationFrame ? requestAnimationFrame(loadCss) : "function" === typeof mozRequestAnimationFrame ? mozRequestAnimationFrame(loadCss) : "function" === typeof webkitRequestAnimationFrame ? webkitRequestAnimationFrame(loadCss) : "function" === typeof msRequestAnimationFrame ? msRequestAnimationFrame(loadCss) : "function" === typeof window.addEventListener ? window.addEventListener("load", loadCss) : window.onload = loadCss)
+}, 100);
  /*!
  *
  *
