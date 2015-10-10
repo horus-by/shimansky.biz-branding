@@ -6,7 +6,7 @@
 			<square150x150logo src="/mstile-150x150.png"/>
 			<square310x310logo src="/mstile-310x310.png"/>
 			<wide310x150logo src="/mstile-310x150.png"/>
-			<TileColor>#D55148</TileColor>
+			<TileColor>#D54848</TileColor>
 		</tile>
 		<notification>
 			<polling-uri src="http://notifications.buildmypinnedsite.com/?feed=https://feeds.feedburner.com/Shimanskybiz?format=xml&amp;id=1"/>

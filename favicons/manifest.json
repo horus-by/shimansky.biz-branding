@@ -61,5 +61,5 @@
 	"start_url": "/webapp/index.html",
 	"display": "standalone",
 	"orientation": "landscape",
-	"theme_color": "#D55148"
+	"theme_color": "#D54848"
 }
