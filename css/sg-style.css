@@ -222,7 +222,7 @@ ol.linenums {
 }
 .panel-nav-menu li a:hover,
 .panel-nav-menu li a:focus {
-	background: #424242;
+	background: #464646;
 }
 .btn-nav-menu {
 	display: inline-block;
@@ -1285,7 +1285,7 @@ ol.linenums {
 	button,.col button,
 	.holder-menu-more,
 	.panel-menu-more,
-	.holder-btn-nav-menu,
+	.panel-nav-menu,
 	.stripe-top,
 	.header,
 	.footer,
